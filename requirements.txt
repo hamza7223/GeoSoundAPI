@@ -1,0 +1,6 @@
+1. make a virtual env
+
+2. install the dependencies
+
+- pip install spotipy
+- pip install geocoder
